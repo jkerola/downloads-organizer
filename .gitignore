@@ -1,0 +1,6 @@
+env
+__pycache__
+.vscode
+organizer.spec
+build
+dist
