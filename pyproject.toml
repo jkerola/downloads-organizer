@@ -1,6 +1,6 @@
 [project]
 name = "downloads_organizer"
-version = "1.0.0"
+version = "0.1.0"
 description = "Automatically organizes Downloads directory"
 readme = "README.md"
 requires-python = ">=3.7"
